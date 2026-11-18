@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-18",
+  "old_site_retained": true,
+  "app_store_urls_changed": false,
+  "sources": {
+    "privacy": {
+      "source": "https://nostalgia-album-support.happycrab64.chatgpt.site/privacy/",
+      "main_sha256": "2ffc3efdc1759c3da74093c61ff9a6f0867ddc34baa0b60f2428c74099ce0965"
+    },
+    "support": {
+      "source": "https://nostalgia-album-support.happycrab64.chatgpt.site/support/",
+      "main_sha256": "cdfbf63df3c798767939a731591fba8147a447f7862d33e51f2cce93a0f0547b"
+    }
+  }
+}
