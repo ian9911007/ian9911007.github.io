@@ -11,5 +11,11 @@
       "source": "https://nostalgia-album-support.happycrab64.chatgpt.site/support/",
       "main_sha256": "cdfbf63df3c798767939a731591fba8147a447f7862d33e51f2cce93a0f0547b"
     }
+  },
+  "official_icon": {
+    "source": "App Store Taiwan, id6833373802",
+    "artist": "SHOU YEN CHEN",
+    "retrieved": "2026-11-18",
+    "path": "assets/nostalgia-album.jpg"
   }
 }
